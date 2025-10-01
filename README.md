@@ -36,9 +36,9 @@ course-info/
 
 - **Java 17+**
 - **Maven** (multi-module)
-- **H2 Database** (or compatible relational DB)
+- **H2 Database** 
 - **JUnit** (for testing)
-- **REST API** (JAX-RS or Spring, depending on implementation)
+- **REST API** (JAX-RS)
 
 ---
 
